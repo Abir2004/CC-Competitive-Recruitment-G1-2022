@@ -3,7 +3,7 @@
 ****
  
 1. Create a [GitHub](https://github.com/) account, preferably using your BITS email (gives you free student access, and lots of perks). 
-2. Fill out [this form](https://forms.gle/hFoTqptioqCUtf8bA), and join the [group](https://codeforces.com/group/d7S7vmPWmS/contests) on Codeforces.
+2. Fill [this form](https://forms.gle/5ESgvtgA4jhdFwZ89), and join the [group](https://codeforces.com/group/xAHU6B1kzn/contests) on Codeforces.
 3. You have to learn and practice a few basic problem solving techniques to prepare for the contest. The following would be the basics that we suggest you to learn:
    1. **Data types** (not needed for Python), such as the range of ```int``` vs ```long long``` in C++
    2. The in-built **sorting** function in the language of your choice
