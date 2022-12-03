@@ -23,4 +23,4 @@
    5. Two Sum
    6. Zarxer's Restaurant
 > The non hyperlinked problems are available on the Codeforces group (register for the "Recruitments Task #1" contest to access them).
-6. You have to submit a GitHub repository and upload your solution codes to all these problems. Mark the repository as **private** and add all of the following accounts as collaborators: [Abir2004](https://github.com/Abir2003), [ShardulWadjakar](https://github.com/ShardulWadajkar) and [Bhaskar1729](https://github.com/Bhaskar1729).
+6. You have to submit a GitHub repository and upload your solution codes to all these problems. Mark the repository as **private** and add all of the following accounts as collaborators: [Abir2004](https://github.com/Abir2004), [ShardulWadjakar](https://github.com/ShardulWadajkar) and [Bhaskar1729](https://github.com/Bhaskar1729).
